@@ -1,0 +1,20 @@
+{
+  "requests": [],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Benny Profane",
+      "email": "bp@pynchon.com"
+    },
+    {
+      "id": 2,
+      "name": "Rachel Owlglass",
+      "email": "ro@pynchon.com"
+    },
+    {
+      "id": 3,
+      "name": "Roger Mexico",
+      "email": "rm@pynchon.com"
+    }
+  ]
+}

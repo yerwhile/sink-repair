@@ -1,0 +1,10 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+#topics_options {
+    list-style:none;
+    display: flex;
+}
